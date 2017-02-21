@@ -1,1 +1,1 @@
-List Mangement App built with Stuk.io tutorial.
+List Mangement App built with Rails
